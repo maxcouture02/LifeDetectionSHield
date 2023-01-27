@@ -2498,7 +2498,7 @@
     (property "Value" "XT60PW-M" (id 1) (at 86.36 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "XT60:AMASS_XT60PW-M" (id 2) (at 80.01 110.49 0)
+    (property "Footprint" "XT60PW-M:AMASS_XT60PW-M" (id 2) (at 80.01 110.49 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 80.01 110.49 0)
@@ -2595,7 +2595,7 @@
       (reference "J7") (unit 1) (value "Digital") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x18_P2.54mm_Vertical")
     )
     (path "/f4ec02f2-00d2-4de8-8e6f-e4d175a632ad"
-      (reference "J12") (unit 1) (value "XT60PW-M") (footprint "XT60:AMASS_XT60PW-M")
+      (reference "J12") (unit 1) (value "XT60PW-M") (footprint "XT60PW-M:AMASS_XT60PW-M")
     )
     (path "/8b0cbbb0-2f60-4f01-a684-f0316ec4e436"
       (reference "LSwitchD1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
