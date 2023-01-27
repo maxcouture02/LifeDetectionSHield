@@ -729,6 +729,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/Users/maximecouture/Downloads/A4988 STEPPER MOTOR DRIVER CARRIER--3DModel-STEP-56544.STEP"
+      (offset (xyz 6.5 -9 7))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (layer "F.Cu")
@@ -913,6 +918,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/Users/maximecouture/Downloads/A4988 STEPPER MOTOR DRIVER CARRIER--3DModel-STEP-56544.STEP"
+      (offset (xyz 6.5 -9 7))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1194,6 +1204,11 @@
       (net 92 "Net-(Dr1R1-Pad1)") (pinfunction "-") (pintype "passive") (tstamp da13da8c-4157-4ecd-9893-42f5e46c8df5))
     (pad "S1" thru_hole oval locked (at 6.75 0 90) (size 1.2 2.4) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp e2fa2dcb-073a-4b57-b5f9-6f55d1f9b5f5))
     (pad "S2" thru_hole oval locked (at -6.75 0 90) (size 1.2 2.4) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 4cadd979-af67-4ac0-aa7e-c0d2d9bd65f3))
+    (model "/Users/maximecouture/Downloads/XT60PW-M--3DModel-STEP-1.STEP"
+      (offset (xyz 0 9.35 3))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -180))
+    )
   )
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
@@ -1368,7 +1383,7 @@
 
   (footprint "Graphics and Logos:uORover20mm" (layer "B.Cu")
     (tedit 0) (tstamp d562f51d-8589-4bee-a6dc-0e6f2461f073)
-    (at 133.02 77.14 180)
+    (at 127.94 77.14 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -5033,19 +5048,19 @@
   (gr_poly
     (pts
       (xy 201.6 110.16)
-      (xy 122.86 110.16)
-      (xy 122.86 56.82)
-      (xy 89.84 56.82)
-      (xy 89.84 33.96)
-      (xy 89.84 33.96)
-      (xy 89.84 26.34)
+      (xy 110.16 110.16)
+      (xy 110.16 56.82)
+      (xy 100 56.82)
+      (xy 100 33.96)
+      (xy 120.32 33.96)
+      (xy 125.4 26.34)
       (xy 148.26 26.34)
       (xy 201.6 26.34)
     ) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp 33763a7e-11f0-4e60-8fca-1a9dea79f69f))
-  (gr_text "Developed 2023" (at 150.8 92.38) (layer "B.SilkS") (tstamp be50885e-6786-4b56-a7da-bc5ca9c3ee97)
+  (gr_text "Developed 2023" (at 145.72 92.38) (layer "B.SilkS") (tstamp be50885e-6786-4b56-a7da-bc5ca9c3ee97)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "uORover LDShield Mk1" (at 140.132 89.586) (layer "B.SilkS") (tstamp c6eceb4d-a036-4a24-a001-538e542d2059)
+  (gr_text "uORover LDShield Mk1" (at 135.052 89.586) (layer "B.SilkS") (tstamp c6eceb4d-a036-4a24-a001-538e542d2059)
     (effects (font (size 4 2) (thickness 0.15)) (justify mirror))
   )
 
