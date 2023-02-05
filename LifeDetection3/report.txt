@@ -1,0 +1,22 @@
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Cu.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Cu.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Adhesive.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Adhesive.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Paste.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Paste.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Silkscreen.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Silkscreen.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Mask.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Mask.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-User_Drawings.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-User_Comments.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-User_Eco1.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-User_Eco2.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-Edge_Cuts.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-Margin.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Courtyard.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Courtyard.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-F_Fab.gbr'.
+Plotted to '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-B_Fab.gbr'.
+Created Gerber job file '/Users/maximecouture/Downloads/LifeDetectionShield2/LifeDetectionSHield/LifeDetection3/LifeDetection3-job.gbrjob'.
+Info: Done.
